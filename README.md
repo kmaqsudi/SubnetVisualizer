@@ -1,4 +1,4 @@
-# subnets
+# Visual Subnet Calculator
 
 
 ![Subnet Visualizer](./img/visualsubnet.jpg)
