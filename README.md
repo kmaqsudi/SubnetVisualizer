@@ -1,7 +1,7 @@
 # Visual Subnet Calculator
 
 
-![Subnet Visualizer](./img/visualsubnet.jpg)
+![Subnet Visualizer](./img/visualsubnetcalc.jpg)
 
 # Run with docker
 
