@@ -1,0 +1,13 @@
+# Exclude anything not needed for the static image
+*.md
+*.MD
+.DS_Store
+*.sh
+*.py
+*.php
+!index.php # kept only if you still want redirect (not required)
+!gennum.php # legacy generator (not executed in image)
+img/*.xcf
+img/*.psd
+# Git
+.git*
